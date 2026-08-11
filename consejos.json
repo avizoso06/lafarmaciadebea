@@ -1,0 +1,31 @@
+{
+  "consejos": [
+    {
+      "slug": "proteccion-solar-verano",
+      "title": "5 gestos para proteger tu piel del sol este verano",
+      "category": "Dermocosmética",
+      "icon": "sun",
+      "date": "Agosto 2026",
+      "excerpt": "El sol de Madrid no perdona. Te contamos cómo elegir y usar bien tu protector solar.",
+      "published": true
+    },
+    {
+      "slug": "calor-hidratacion-mayores",
+      "title": "Calor e hidratación: cuida especialmente a los mayores",
+      "category": "Bienestar",
+      "icon": "drop",
+      "date": "Agosto 2026",
+      "excerpt": "Con las altas temperaturas, beber agua a menudo importa más de lo que parece.",
+      "published": false
+    },
+    {
+      "slug": "no-olvidar-medicacion",
+      "title": "Cómo no olvidar ninguna toma de tu medicación",
+      "category": "Tu medicación",
+      "icon": "pill",
+      "date": "Julio 2026",
+      "excerpt": "Trucos sencillos (y nuestro servicio de SPD) para llevar tu tratamiento al día.",
+      "published": false
+    }
+  ]
+}
